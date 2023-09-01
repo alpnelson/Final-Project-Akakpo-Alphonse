@@ -1,5 +1,10 @@
 # **GameStore Application**
 
+## **Contributors** 
+- Hailey Sun
+- Alphonse
+- Samuel Babatunde
+
 ## User Stories
 Users will be able to:
 - be able to create, update, delete, and read GAME information.
